@@ -2,7 +2,8 @@
 this earbuds is the grid structure for the ear-buds website 
 
 
-Screenshot 2023-11-05 at 11.30.59 PM.png
+<img width="1470" alt="Screenshot 2023-11-05 at 11 30 59 PM" src="https://github.com/snehpatel200603/Patel_sneh_earbuds-grid-3040/assets/121982229/79355805-f148-4b74-807d-66cba7c023b8">
+
 
 # Earbuds Promotional Website
 Welcome to the Earbuds Promotional Website project! This website was built using HTML, CSS, SASS, and JavaScript, with the added touch of interactive animations using the GSAP library. This Read Me file provides you with essential information to get started with the project.
